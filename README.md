@@ -34,7 +34,7 @@ You can find a [Web UI](https://bitcoincore.tech/apps/bitcoinjs-ui/index.html) t
 
 ## Installation
 ``` bash
-npm install bitcoinjs-lib
+npm i https://github.com/TDCoin-Dev-Team/tdcoinjs-lib
 ```
 
 Typically we support the [Node Maintenance LTS version](https://github.com/nodejs/Release).
